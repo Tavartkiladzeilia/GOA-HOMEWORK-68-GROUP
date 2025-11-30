@@ -1,0 +1,18 @@
+body {
+ background-color: cornsilk;
+}
+
+
+button:hover {
+    background-color: coral;
+    button:hover {
+    transition: 5s;
+    font-size: 20px;
+
+    font-family: cursive;
+    color: orange;
+}
+
+}
+
+/* es aris 2 daavaleba */

@@ -1,0 +1,43 @@
+body {
+    background-color: bisque;
+}
+
+.cristmas {
+    text-align: center;
+    color: red;
+    background-color: aliceblue;
+}
+
+
+.b1:hover {
+    background-color: coral;
+    color: brown;
+    .b1:hover {
+    transition: 5s;
+    font-size: 20px;
+
+    font-family: cursive;
+    color: orange;
+}
+
+}
+
+div {
+    background-color: aliceblue;
+}
+
+
+.b2 {
+    color: red;
+    background-color: blueviolet;
+     .b2:hover {
+    transition: 5s;
+    font-size: 20px;
+
+    font-family: cursive;
+    color: orange;
+}
+
+}
+
+/* es aris 2 davaleba */

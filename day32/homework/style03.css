@@ -1,0 +1,17 @@
+body {
+    background-color: blanchedalmond;
+}
+
+button:hover {
+    background-color: darkorange;
+    button:hover {
+    transition: 5s;
+    font-size: 20px;
+ 
+    font-family: cursive;
+    color: orange;
+}
+
+}
+
+/* es aris 2 davaleba */
