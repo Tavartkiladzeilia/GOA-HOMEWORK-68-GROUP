@@ -5,46 +5,49 @@
 
 # meore ver mivxvdi
 
-def sum_numbers(numbers):
+def sum_of_numbers(numbers):
     return sum(numbers)
+
+numbers = [1, 2, 3, 4]
+print("Sum:", sum_of_numbers(numbers))
+
 
 # es aris 3 davaleba
 
 
-def filter_names(names):
-    return [name for name in names if len(name) >= 5]
+names = ["ilia", "giorgi", "noe", "vano", "nika", "mari"]
+
+def filter_long_names(names):
+    long_names = []
+    for name in names:
+        if len(name) > 5:
+            long_names.append(name)
+    return long_names
+
+print(filter_long_names(names))
+
 
 # es aris 4 davaleba
 
 
-def double_numbers(numbers):
-    return [num * 2 for num in numbers]
+def filter_long_names(names):
+    return [name for name in names if len(name) >= 5]
+
+names = ["Nikoloz", "Luka", "Giorgi", "Ana", "David"]
+print("Long names:", filter_long_names(names))
+
 
 # es aris 5 davaleba
 
+numbers = [1, 4, 7, 9, 13]
+def reverse_list(nums):
+    reverse_list-[]
+    for i in range( len(numbers)):
+        reverse_list.append(nums[(i+1) *-1])
+    return reverse_list
 
-def reverse_list(numbers):
-    return numbers[::-1]
+print(reverse_list(numbers))
+
+
 
 # es aris 6 davaleba
-
-
-def is_palindrome(word):
-    return word.lower() == word.lower()[::-1]
-
-# es aris 7 davaleba
-
-
-def reverse_string(text):
-    return text[::-1]
-
-# es aris 8 daavaleba
-
-
-def ilia_negative(number):
-    return -abs(number)
-
-# es aris 9 davaleba
-
-
-# meate ver mivxvdi.
