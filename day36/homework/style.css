@@ -1,0 +1,52 @@
+.container {
+  width: 400px;
+  height: 250px;
+  background-color: #1abc9c; /* HEX ფერი */
+  padding: 15px;
+}
+/* es aris 1 davaleba */
+
+.p1 { color: rgb(255, 0, 0); }
+.p2 { color: rgb(0, 255, 0); }
+.p3 { color: rgb(0, 0, 255); }
+
+.p4 { color: #8e44ad; }
+.p5 { color: #2c3e50; }
+/* es aris 2 davaleba */
+
+
+   body {
+      font-family: "Georgia", serif;
+    }
+
+    .container {
+      width: 400px;
+      height: 250px;
+      background-color: #1abc9c;
+      padding: 15px;
+    }
+
+    .p1 { color: rgb(255, 0, 0); }
+    .p2 { color: rgb(0, 255, 0); }
+    .p3 { color: rgb(0, 0, 255); }
+    .p4 { color: #8e44ad; }
+    .p5 { color: #2c3e50; }
+
+    .styled-text {
+      font-weight: bold;
+      font-style: italic;
+      text-decoration: underline;
+    }
+
+    .neon {
+      color: #00ffff;
+      font-size: 40px;
+      font-family: "Courier New", monospace;
+      text-shadow:
+        0 0 5px #00ffff,
+        0 0 10px #00ffff,
+        0 0 20px #00ffff,
+        0 0 40px #00bcd4;
+    }
+
+/* es aris 3 davaleba */
